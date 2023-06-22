@@ -1,10 +1,10 @@
 # What do you want to watch tonight?
-##TV Show Recommender
+## TV Show Recommender
 
 ### Project Overview:
 This project involves building a recommendation system for TV shows. Given user preferences for TV show features, the system recommends TV shows that the user is likely to enjoy. The core of the system is a predictive model that estimates a show's IMDb rating.
 
-#####Features:
+##### Features:
 The dataset includes the following features for each TV show:
 - Title: The title of the TV series.
 - IMDb ID: The unique identifier for the series on IMDb.
